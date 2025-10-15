@@ -68,3 +68,13 @@ This study aims to use my own personal glucose data to identify measurable patte
 
 ---
 
+---
+
+##  Project Progress Tracker
+
+- [x] Phase 1: ASK — Defined research questions ✅  
+- [x] Phase 2: PREPARE — Set up GitHub repo and structure ✅  
+- [ ] Phase 3: PROCESS — Begin logging and importing Dexcom data  
+- [ ] Phase 4: ANALYZE — Clean and visualize with Python  
+- [ ] Phase 5: SHARE — Upload visuals and findings  
+- [ ] Phase 6: ACT — Reflect and publish insights
